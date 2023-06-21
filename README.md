@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![stefanDeveloper @ a glance](https://github-readme-stats.vercel.app/api?username=stefanDeveloper&count_private=true&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/stefanDeveloper/stefanDeveloper/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
 ![](https://komarev.com/ghpvc/?username=stefanDeveloper&style=flat-square)
