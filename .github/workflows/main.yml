@@ -13,8 +13,11 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@v3.0.0
         id: snake-gif
+        env:
+          # a github token is required to fetch the contribution calendar from github API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_user_name: stefanDeveloper
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
